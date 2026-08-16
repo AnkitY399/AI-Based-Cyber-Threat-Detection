@@ -2,8 +2,9 @@
 
 An intelligent intrusion detection system that uses Machine Learning to analyze network traffic and classify potential cyber threats (e.g., DDoS, Brute Force, Infiltration) in real time.
 
-## Click to View
-https://hub.bids.mybinder.org/user/ankity399-ai-ba-hreat-detection-wcop9knm
+[![Binder](https://mybinder.org)](https://mybinder.org/v2/gh/Ankity399/AI-Based-Cyber-Threat-Detection/HEAD)
+
+
 
 ## 🚀 Features
 * **Data Preprocessing:** Robust cleaning, handling of missing values, and scaling of network packet features.
