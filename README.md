@@ -1,6 +1,7 @@
 # AI-Based Cyber Threat Detection Framework
 
 An intelligent intrusion detection system that uses Machine Learning to analyze network traffic and classify potential cyber threats (e.g., DDoS, Brute Force, Infiltration) in real time.
+[![Binder](https://mybinder.org)](https://mybinder.org)
 
 ## 🚀 Features
 * **Data Preprocessing:** Robust cleaning, handling of missing values, and scaling of network packet features.
