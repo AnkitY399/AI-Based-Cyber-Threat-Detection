@@ -2,7 +2,7 @@
 
 An intelligent intrusion detection system that uses Machine Learning to analyze network traffic and classify potential cyber threats (e.g., DDoS, Brute Force, Infiltration) in real time.
 
-## Binder deployment badge
+## Binder Deployment Badge
 [(https://mybinder.org)](https://mybinder.org/v2/gh/Ankity399/AI-Based-Cyber-Threat-Detection/HEAD)
 
 
